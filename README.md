@@ -9,11 +9,11 @@
 
 Development Team:
 
-Sean Lissner
-Steven Marsh
-Tanay Shah
-Tyler LaBonte
-Vimanyu Awal
-Xubo (Hiro) Zhu
+- Sean Lissner
+- Steven Marsh
+- Tanay Shah
+- Tyler LaBonte
+- Vimanyu Awal
+- Xubo (Hiro) Zhu
 
 
